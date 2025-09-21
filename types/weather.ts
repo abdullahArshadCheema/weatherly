@@ -3,9 +3,14 @@ export type GeoResult = {
   name: string;
   country?: string;
   admin1?: string;
+  admin2?: string;
+  admin3?: string;
+  admin4?: string;
+  locality?: string;
   latitude: number;
   longitude: number;
   timezone?: string;
+  provider?: 'open-meteo' | 'nominatim';
 };
 
 export type Units = 'metric' | 'imperial';
