@@ -2,6 +2,8 @@
 
 A clean, fast weather app powered by Open‑Meteo APIs. No API keys required.
 
+![Weatherly screenshot](public/screenshot.png)
+
 ## Highlights
 - City search with debounced typeahead
 - “Use my location” with reverse‑geocoding and robust fallbacks
@@ -88,8 +90,3 @@ Upload the contents of `out/`. If deploying at a path other than `/weatherly`, a
 
 ## Attribution
 The footer includes: “This app was built with the assistance of GPT‑5.”
-
-## Screenshot
-
-
-![Weatherly screenshot](public/screenshot.png)
