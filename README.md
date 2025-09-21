@@ -88,3 +88,9 @@ Upload the contents of `out/`. If deploying at a path other than `/weatherly`, a
 
 ## Attribution
 The footer includes: “This app was built with the assistance of GPT‑5.”
+
+## Screenshot
+
+```markdown
+![Weatherly screenshot](public/screenshot.png)
+```
